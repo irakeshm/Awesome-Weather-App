@@ -2,7 +2,7 @@
 
 ## Awesome Weather- React Native App
 
-* A cool Awesome Weather App, developed in React Native with Expo. It works for both Android & iOS. This App will Tell you the Weather of your current location with some cool & Awesome quotes.
+A cool Awesome Weather App, developed in React Native with Expo. It works for both Android & iOS. This App will Tell you the Weather of your current location with some cool & Awesome quotes.
 
 
 ## Built With
