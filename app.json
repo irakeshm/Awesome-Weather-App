@@ -1,0 +1,15 @@
+{
+   "expo": {
+    "name": "Awesome",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug": "Awesome",
+    "sdkVersion": "20.0.0",
+    "ios": {
+      "bundleIdentifier": "com.Weather.Awesome"
+    },
+    "android": {
+      "package": "com.Weather.Awesome"
+    }
+   }
+ }
