@@ -24,6 +24,6 @@ A cool Awesome Weather App, developed in React Native with Expo. It works for bo
 
 ## Acknowledgments
 
-* Used <a href='https://github.com/JustinNothling'>Justin Nothling</a> Build a Fucking Weather<a href='https://github.com/JustinNothling/react-native-fuckingWeather'>App<a>.
+* Used <a href='https://github.com/JustinNothling'>Justin Nothling</a> Build a Fucking Weather <a href='https://github.com/JustinNothling/react-native-fuckingWeather'>App<a>.
 * Free Tutorial on <a href='http://cloneable.io/courses/'>cloneable.io</a>
 
