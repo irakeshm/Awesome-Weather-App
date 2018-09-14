@@ -14,7 +14,7 @@ A cool Awesome Weather App, developed in React Native with Expo. It works for bo
 
 ## Download Android Build
 
-* You can download Andoid Apk from <a href='https://expo.io/@rakeshrenukut/Awesome-Weather/builds'>here</a>
+* You can download Andoid Apk from <a href='https://github.com/irakeshm/AwesomeWeatherApp/blob/master/com.Awesome.Weather.apk'>here</a>
 
 
 ## Demo
@@ -24,6 +24,6 @@ A cool Awesome Weather App, developed in React Native with Expo. It works for bo
 
 ## Acknowledgments
 
-* Used <a href='https://github.com/JustinNothling'>Justin Nothling</a> Build a Fucking Weather App.
+* Used <a href='https://github.com/JustinNothling'>Justin Nothling</a> Build a Fucking Weather<a href='https://github.com/JustinNothling/react-native-fuckingWeather'>App<a>.
 * Free Tutorial on <a href='http://cloneable.io/courses/'>cloneable.io</a>
 
